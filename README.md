@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oksamxd
-- 👀 I’m interested in Full Stack Dev and Data Science 
-- 🌱 I’m currently learning : JAVA 
-- 📫 How to reach me : sameedsyed@gmail.com 
+ 👋 Hi, I’m @oksamxd
+  I’m interested in  Data Science , analysis and  AI technology 
+- I’m currently learning : python , DevOps
+- How to reach me : sameedsyed@gmail.com 
 
 
 <!---
